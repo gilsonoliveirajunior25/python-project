@@ -1,0 +1,2 @@
+desligar luz
+apagar luz
